@@ -1,0 +1,7 @@
+Code Directory
+
+This folder contains the Python scripts for data analysis.
+
+ cmb_simulation.py : Simulates the Cosmic Microwave Background (CMB) power spectrum.
+
+ sparc_fitter.py : Fits the galaxy rotation curves from the SPARC dataset.
