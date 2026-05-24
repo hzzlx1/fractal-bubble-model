@@ -1,9 +1,0 @@
-Data Repository
-
-This directory contains the data files supporting the Fractal Bubble Universe model analysis.
-
-SPARC/: Subfolder for the SPARC galaxy rotation curve dataset.
-
-CMB/: Subfolder for Cosmic Microwave Background power spectrum data.
-
-Note: Large raw data files are not included to keep the repository size manageable.
